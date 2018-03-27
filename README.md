@@ -1,0 +1,2 @@
+# GPTC
+polytecnic perubavoor
